@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@ngneat/falso": "^7.1.0",
+    "cypress": "^13.2.0"
+  }
+}
